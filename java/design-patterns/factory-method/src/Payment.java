@@ -1,5 +1,3 @@
-package mudia;
-
 import java.math.BigDecimal;
 
 public interface Payment {
